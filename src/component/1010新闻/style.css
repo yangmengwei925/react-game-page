@@ -1,0 +1,11 @@
+.img{
+  width:180px;
+  height: 100px;  
+   float:left;
+}
+li{
+  list-style: none;
+  word-wrap:break-word;
+  word-break:break-all;
+  overflow: hidden;
+}
